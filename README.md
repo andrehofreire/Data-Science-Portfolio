@@ -5,9 +5,8 @@ Os projetos são apresentados em iPython Notebooks (publicados no Github), arqui
 
 # Conteúdo
 
-* Machine Learning
- * R
-  - [Cogumelos: Comestível ou Venenoso? Algoritmo KNN para Classificação](http://rpubs.com/andrehofreire/cogumelos): Modelo preditivo que nos auxiliará na classificação de cogumelos, dizendo se ele é comestível ou venenoso, utilizando aprendizagem supervisionada e o algoritmo KNN (K-Nearest-Neighbor) com a linguagem R. 
+ > R
+  * [Cogumelos: Comestível ou Venenoso? Algoritmo KNN para Classificação](http://rpubs.com/andrehofreire/cogumelos): Modelo preditivo que nos auxiliará na classificação de cogumelos, dizendo se ele é comestível ou venenoso, utilizando aprendizagem supervisionada e o algoritmo KNN (K-Nearest-Neighbor) com a linguagem R. 
 
  
  * Python
@@ -18,4 +17,4 @@ Os projetos são apresentados em iPython Notebooks (publicados no Github), arqui
 
 
 
-Para eventuais contatos, envie um e-mail para [and.f@hotmail.com](e-mail: and.f@hotmail.com) ou entre em contato pelo meu perfil no [Linkedin](https://www.linkedin.com/in/andre-freire-de-freitas-23a64331/)
+Para eventuais contatos, envie um e-mail para [and.f@hotmail.com](and.f@hotmail.com) ou entre em contato pelo meu perfil no [Linkedin](https://www.linkedin.com/in/andre-freire-de-freitas-23a64331/)
