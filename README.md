@@ -10,7 +10,7 @@ Os projetos são apresentados em iPython Notebooks (publicados no Github), arqui
  
  * Python
    
-   * [Prevendo o gênero de um atleta Olímpico com Python e Machine Learning](https://github.com/andrehofreire/Projeto01/blob/master/Projeto01.ipynb): Nosso objetivo é explorar e gerar visualizações sobre os dados de atletas e resultados olímpicos de 120 anos de história (1896 a 2016) utilizando a linguagem python e o ambiente interativo do jupyter notebook para demonstrarmos os passos das nossas análises. Iremos gerar insights principalmente sobre a quantidade de atletas ao longo do tempo e suas distribuições de idades, pesos e alturas e também realizaremos algumas análises sobre correlações entre as variáveis.
+   * [Exploração e Visualização de dados Olímpicos com Python](https://github.com/andrehofreire/Projeto01/blob/master/Projeto01.ipynb): Nosso objetivo é explorar e gerar visualizações sobre os dados de atletas e resultados olímpicos de 120 anos de história (1896 a 2016) utilizando a linguagem python e o ambiente interativo do jupyter notebook para demonstrarmos os passos das nossas análises. Iremos gerar insights principalmente sobre a quantidade de atletas ao longo do tempo e suas distribuições de idades, pesos e alturas e também realizaremos algumas análises sobre correlações entre as variáveis.
   
    * [Prevendo o gênero de um atleta Olímpico com Python e Machine Learning](https://github.com/andrehofreire/Projeto-02/blob/master/Untitled1.ipynb): Continuação do primeiro trabalho sobre exploração e visualização de dados com Python, agora utilizamos a linguagem Python e seus pacotes para criar um modelo preditivo capaz de prever o gênero de um atleta Olímpico. 
 
