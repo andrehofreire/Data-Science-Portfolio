@@ -1,5 +1,5 @@
 # Portfólio Ciência de Dados - André Freire de Freitas
-Tenho o objetivo de gerar valor para as pessoas e empresas através do estudo contínuo sobre novas ferramentas e tecnologias que nos permitem transformar dados em informação útil para a tomada de decisão, esse portfólio foi criado por mim como forma de auxiliar no auto aprendizado e centralizar projetos já realizados.
+Tenho o objetivo de gerar valor para as pessoas e empresas através do estudo contínuo sobre novas ferramentas e tecnologias que nos permitem transformar dados em informação útil para a tomada de decisão e esse portfólio foi criado como forma de auxiliar no auto aprendizado e centralizar projetos já realizados em ciência de dados.
 
 Os projetos são apresentados em iPython Notebooks (publicados no Github), arquivos R markdown (publicados no Rpubs), aplicações Power BI (com link direto para a aplicação) e as competições de Machine Learning possuem link direto para o kernel público postado no Kaggle.
 
