@@ -24,4 +24,5 @@ Os projetos são apresentados em iPython Notebooks (publicados no Github), arqui
 Nosso objetivo é criar um modelo de Machine Learning para prever se um paciente desenvolveu ou não diabetes, com base em medidas de diagnóstico. O conjunto de dados é do Instituto Nacional de Diabetes e Doenças Digestivas e Renais (National Institute of Diabetes and Digestive and Kidney Diseases).
 
 
+
 Para eventuais contatos, envie um e-mail para [and.f@hotmail.com](and.f@hotmail.com) ou entre em contato pelo meu perfil no [Linkedin](https://www.linkedin.com/in/andre-freire-de-freitas-23a64331/)
