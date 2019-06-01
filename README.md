@@ -25,4 +25,4 @@ Nosso objetivo é criar um modelo de Machine Learning para prever se um paciente
 
 
 
-Para eventuais contatos, envie um e-mail para [and.f@hotmail.com](and.f@hotmail.com) ou entre em contato pelo meu perfil no [Linkedin](https://www.linkedin.com/in/andre-freire-de-freitas-23a64331/)
+Para eventuais contatos, envie um e-mail para **and.f@hotmail.com** ou entre em contato pelo meu perfil no [Linkedin](https://www.linkedin.com/in/andre-freire-de-freitas-23a64331/)
