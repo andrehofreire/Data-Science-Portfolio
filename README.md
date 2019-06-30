@@ -1,6 +1,9 @@
 # Portfólio Ciência de Dados - André Freire de Freitas
 Tenho o objetivo de gerar valor para as pessoas e empresas através do estudo contínuo sobre novas ferramentas e tecnologias que nos permitem transformar dados em informação útil para a tomada de decisão e esse portfólio foi criado como forma de auxiliar no auto aprendizado e centralizar projetos já realizados.
 
+# Projetos
+Os projetos são apresentados em iPython Notebooks (publicados no Github), arquivos R markdown (publicados no Rpubs), aplicações Power BI (com link direto para a aplicação) e as competições de Machine Learning possuem link direto para o kernel público postado no Kaggle.
+
 * Competições
    
    * [Competição DSA de Machine Learning (jun-2019): Prevendo Índice de Lealdade com LightGBM](https://www.kaggle.com/andrehofreire/prevendo-ndice-de-lealdade-com-lightgbm?scriptVersionId=16534363):
@@ -11,10 +14,7 @@ Tenho o objetivo de gerar valor para as pessoas e empresas através do estudo co
    * [Competição DSA de Machine Learning (jan-2019): Prevendo a Ocorrência de Diabetes com Regressão Logística](https://www.kaggle.com/andrehofreire/prevendo-ocorr-ncia-de-diabetes-com-reg-log-stica): Este trabalho está publicado no site "Kaggle" e é parte da edição de Janeiro-2019 da competição de Machine Learning da Data Science Academy.
 Foi criado um modelo de Machine Learning para prever se um paciente desenvolveu ou não diabetes, com base em medidas de diagnóstico. O conjunto de dados é do Instituto Nacional de Diabetes e Doenças Digestivas e Renais (National Institute of Diabetes and Digestive and Kidney Diseases).
 
-
-# Projetos
-Os projetos são apresentados em iPython Notebooks (publicados no Github), arquivos R markdown (publicados no Rpubs), aplicações Power BI (com link direto para a aplicação) e as competições de Machine Learning possuem link direto para o kernel público postado no Kaggle.
- * R
+* R
    * [Cogumelos: Comestível ou Venenoso? Algoritmo KNN para Classificação](http://rpubs.com/andrehofreire/cogumelos): Modelo preditivo que nos auxiliará na classificação de cogumelos, dizendo se ele é comestível ou venenoso, utilizando aprendizagem supervisionada e o algoritmo KNN (K-Nearest-Neighbor) com a linguagem R. 
    
    * [Avaliando um Modelo de Regressão Linear com Linguagem R](http://rpubs.com/andrehofreire/LinearRegressionR): O objetivo deste trabalho é construir, interpretar e avaliar um modelo de regressão linear simples de maneira detalhada utilizando a linguagem R.
