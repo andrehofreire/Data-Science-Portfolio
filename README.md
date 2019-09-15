@@ -15,6 +15,8 @@ Os projetos são apresentados em iPython Notebooks (publicados no Github), arqui
 Foi criado um modelo de Machine Learning para prever se um paciente desenvolveu ou não diabetes, com base em medidas de diagnóstico. O conjunto de dados é do Instituto Nacional de Diabetes e Doenças Digestivas e Renais (National Institute of Diabetes and Digestive and Kidney Diseases).
 
 * R
+   * [Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile](http://rpubs.com/andrehofreire/TalkingData): Este trabalho é parte da conclusão do curso de Big Data Analytics com R e Microsoft Azure Machine Learning da Data Science Academy e tem como objetivo colocar em prática os conceitos aprendidos durante o curso, sendo uma excelente forma para que o aluno possa descobrir suas dificuldades e ter contato com problemas reais de quem trabalha com ciência de dados ou utiliza análise de dados para resolver problemas de forma geral.
+
    * [Cogumelos: Comestível ou Venenoso? Algoritmo KNN para Classificação](http://rpubs.com/andrehofreire/cogumelos): Modelo preditivo que nos auxiliará na classificação de cogumelos, dizendo se ele é comestível ou venenoso, utilizando aprendizagem supervisionada e o algoritmo KNN (K-Nearest-Neighbor) com a linguagem R. 
    
    * [Avaliando um Modelo de Regressão Linear com Linguagem R](http://rpubs.com/andrehofreire/LinearRegressionR): O objetivo deste trabalho é construir, interpretar e avaliar um modelo de regressão linear simples de maneira detalhada utilizando a linguagem R.
